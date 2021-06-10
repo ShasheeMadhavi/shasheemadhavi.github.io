@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a3e2ed4f2779cc29e3e249a93b3615d",
+    "revision": "8f6fdce36a003bcc3b42c429681594d0",
     "url": "/index.html"
   },
   {
-    "revision": "376841213f39780c22a3",
-    "url": "/static/css/main.dd66ec12.chunk.css"
+    "revision": "2f24132c7a5ed4400d4e",
+    "url": "/static/css/main.fff1c6b1.chunk.css"
   },
   {
     "revision": "9def30b24cfbb4d0f62d",
@@ -16,16 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.1a7296ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "376841213f39780c22a3",
+    "revision": "2f24132c7a5ed4400d4e",
     "url": "/static/js/main.37f35779.chunk.js"
   },
   {
     "revision": "f52ba179432c3be28857",
     "url": "/static/js/runtime-main.554504a0.js"
-  },
-  {
-    "revision": "82cff7d69cb75d6a059cff39b741ebf7",
-    "url": "/static/media/SARA-SETH.82cff7d6.TTF"
   },
   {
     "revision": "32f6b574eb11519020e24620a38bdf55",
@@ -42,5 +38,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9d3da0e22086c40d5e3106d01c0f6402",
     "url": "/static/media/resume.9d3da0e2.pdf"
+  },
+  {
+    "revision": "e61d9e34638adde2d98c6f9eb93ab493",
+    "url": "/static/media/sara-seth-webfont.e61d9e34.woff"
   }
 ]);
